@@ -1,1 +1,4 @@
 #this is my tools and config
+
+##Cygwin
+	run Cygwin/setup.bat, cygwin will be installed in the folder where the file is located
