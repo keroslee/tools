@@ -2,3 +2,4 @@
 
 ##Cygwin
 	run Cygwin/setup.bat, cygwin will be installed in the folder where the file is located
+	to feel free run 'sh customize.sh'
